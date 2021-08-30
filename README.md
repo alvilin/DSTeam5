@@ -2,4 +2,4 @@
 
 # MSIS
 
-Jeremy Mullins
+jeremygmullins
